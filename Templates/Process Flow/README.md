@@ -8,7 +8,7 @@ The diagram below illustrates how key architectural artefacts relate to each oth
 - **Options Papers** can emerge from a business need or trigger a reassessment of the need, creating a feedback loop.
 - Artefacts evolve iteratively; governance ensures alignment at each stage.
 
-./architecture-artefact-flow.png
+![Process Flow](./architecture-artefact-flow.png)
 
 ### ✅ Key
 
@@ -16,7 +16,7 @@ The diagram below illustrates how key architectural artefacts relate to each oth
 - **Purple** for HLD and LLD.
 - **Orange** for Implementation & Operations.
 - **Grey** for Architectural Principles.
-- **Dashed arrows** for Options Papers feedback loop.
+- **Feedback arrows** for Options Papers feedback loop.
 
 ## 🔗 Linkages to Frameworks
 
