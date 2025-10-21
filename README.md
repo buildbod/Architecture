@@ -2,11 +2,38 @@
 
 This repository is grounded in my experience as an IT Architect working across strategy, delivery, and governance. It curates reusable artefacts, templates, and visual frameworks that support storytelling, decision-making, and the operationalisation of architecture practices in modern digital workplaces.
 
-This repository curates reusable artefacts, templates, and visual frameworks for IT architecture. It supports:
+It supports:
 
 - **Storytelling** through layered diagrams and benefit maps  
 - **Decision-making** with one-page summaries and Copilot-ready artefacts  
 - **Operationalisation** of architecture practices in modern digital workplaces  
 
 The resources are designed to help architects communicate clearly, align with business value, and embed architecture into delivery and governance workflows.
+
+## 📚 Architecture Templates – Table of Contents
+
+### 1. 🧠 Framing the Problem & Approach
+- [4MAT - Describe the Business Need or Opportunity](Templates/4MAT/README.md)  
+  _Structure your architectural thinking using the 4MAT framework (Why, What, How, What If)._
+
+- [Architecture Principles](Templates/Principles/README.md)  
+  _Define and apply guiding principles to shape architectural decisions._
+
+### 2. 📊 Planning & Estimation
+- [Estimating Model Guidance](Templates/Estimating/README.md)  
+  _Support early-stage planning with a lightweight estimation approach._
+
+### 3. 🔄 Process & Flow Design
+- [Architecture Artefact Flow](Templates/Process%20Flow/README.md)  
+ _Describe and visualize business or technical processes._
+
+### 4. 🧱 Architecture Views & Building Blocks
+- [Architectural View Guidance](Templates/Views/README.md)  
+  _Use common architecture views to communicate with stakeholders._
+
+- [Solution Building Block (SBB) Style Guide](Templates/SBB%20Style/README.md)  
+  _Ensure consistency in how Solution Building Blocks are styled._
+
+- [Solution Building Block Icon Library for draw.io](Templates/SBB%20Icons/README.md)  
+_A curated icon set to visually represent SBBs in diagrams._
 
