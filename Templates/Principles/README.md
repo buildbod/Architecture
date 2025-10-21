@@ -81,3 +81,6 @@ Principles are applied consistently across architecture reviews, procurement dec
 
 - Example `arch_check_principles.pdf` – Core architecture principles with governance commentary.
 - Example `ai_arch_check_principles.pdf` – AI-specific architecture principles with control linkage.
+
+## 🧾 Attribution
+This guide uses content adapted from my work at **Mott MacDonald**. Please ensure appropriate attribution if reused or modified.
