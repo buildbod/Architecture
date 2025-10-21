@@ -1,4 +1,4 @@
-# 📘 SBB Style Guide
+# 📘 Solution Building Block (SBB) Style Guide
 
 This example style guide outlines the use of **Solution Building Blocks (SBBs)** in architecture views created with draw.io.
 
