@@ -16,7 +16,7 @@ By formalising this early step, we make architecture **repeatable**, **scalable*
 
 The Statement of Needs follows the identification of a business need or opportunity. It precedes the HLD and marks the transition from variable thinking to repeatable patterns:
 
-![Process Flow](./Templates/Process%20Flow/architecture-artefact-flow.png)
+![Process Flow](<../Process Flow/architecture-artefact-flow.png>)
 
 > Diagram from [Architectural Process Flow](https://github.com/buildbod/Architecture/blob/main/Templates/Process%20Flow/README.md)
 
