@@ -13,17 +13,20 @@ The resources are designed to help architects communicate clearly, align with bu
 ## 📚 Architecture Templates – Table of Contents
 
 ### 1. 🧠 Framing the Problem & Approach
+- [Architecture Principles](Templates/Principles/README.md)  
+  _Define and apply guiding principles to shape architectural decisions._
+
 - [4MAT - Describe the Business Need or Opportunity](Templates/4MAT/README.md)  
   _Structure your architectural thinking using the 4MAT framework (Why, What, How, What If)._
 
-- [Architecture Principles](Templates/Principles/README.md)  
-  _Define and apply guiding principles to shape architectural decisions._
+- [Statement of Needs](Templates/Statement%20of%20Needs/README.md)  
+  _Define the context, drivers, principles, and requirements that shape the High-Level Design._
 
 ### 2. 📊 Planning & Estimation
 - [Estimating Model Guidance](Templates/Estimating/README.md)  
   _Support early-stage planning with a lightweight estimation approach._
 
-### 3. 🔄 Process & Flow Design
+### 3. 🔄 Process & Flow
 - [Architecture Artefact Flow](Templates/Process%20Flow/README.md)  
  _Describe and visualize business or technical processes._
 
