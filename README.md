@@ -25,6 +25,8 @@ The resources are designed to help architects communicate clearly, align with bu
 ### 2. 📊 Planning & Estimation
 - [Estimating Model Guidance](Templates/Estimating/README.md)  
   _Support early-stage planning with a lightweight estimation approach._
+- [Terms of Reference](Templates/Terms%20of%20Reference/README.md)  
+  _Defines the engagement model, roles, and responsibilities for architects in projects._
 
 ### 3. 🔄 Process & Flow
 - [Architecture Artefact Flow](Templates/Process%20Flow/README.md)  
