@@ -23,7 +23,7 @@ The following diagram illustrates the default engagement model, aligning **Artef
 
 **Architectural Principles** act as governance throughout all phases. The flow ensures that artefacts and roles are synchronized, reducing ambiguity and late-stage rework.
 
-*Technical queries can occur at any stage and are a cross-cutting activity.* They should be directed to the relevant architect for resolution.
+*[**Technical queries**](https://github.com/buildbod/Architecture/blob/main/Templates/Technical%20Queries/README.md) can occur at any stage and are a cross-cutting activity.* They should be directed to the relevant architect for resolution.
 
 **Lessons learned** from each engagement should be captured and used to refine future Terms of Reference. Feedback loops with stakeholders are essential to evolve architectural practices.
 
