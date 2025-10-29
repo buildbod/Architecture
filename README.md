@@ -31,6 +31,8 @@ The resources are designed to help architects communicate clearly, align with bu
 ### 3. 🔄 Process & Flow
 - [Architecture Artefact Flow](Templates/Process%20Flow/README.md)  
  _Describe and visualize business or technical processes._
+- [Technical Queries (TQ)](Templates/Technical%20Queries/README.md)  
+ _Formal process for raising, tracking, and resolving technical uncertainties._
 
 ### 4. 🧱 Architecture Views & Building Blocks
 - [Architectural View Guidance](Templates/Views/README.md)  
