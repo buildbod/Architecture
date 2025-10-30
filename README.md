@@ -42,5 +42,7 @@ The resources are designed to help architects communicate clearly, align with bu
   _Ensure consistency in how Solution Building Blocks are styled._
 
 - [Solution Building Block Icon Library for draw.io](Templates/SBB%20Icons/README.md)  
-_A curated icon set to visually represent SBBs in diagrams._
+ _A curated icon set to visually represent SBBs in diagrams._
 
+- [Architecture Standards](Standards/README.md)  
+ _Authoritative standards for integrating, designing, and governing technology solutions within enterprise architecture._
