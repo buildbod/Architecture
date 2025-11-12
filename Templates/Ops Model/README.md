@@ -138,7 +138,7 @@ Supports lean-agile principles and portfolio-level governance, enabling architec
 
 - **Microsoft Well-Architected Framework**
 
-Provides guidance across five pillars - Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency - which are mirrored in the governance model.
+Provides guidance across five pillars - Reliability, Security, Cost Optimisation, Operational Excellence, and Performance Efficiency - which are mirrored in the governance model.
 
 - **TOGAF (The Open Group Architecture Framework)**
 
