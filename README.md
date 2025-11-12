@@ -29,6 +29,8 @@ The resources are designed to help architects communicate clearly, align with bu
   _Defines the engagement model, roles, and responsibilities for architects in projects._
 
 ### 3. 🔄 Process & Flow
+- [Operating Model for IT Architecture](Templates/Ops%20Model/README.md)  
+ _Architecture Operating Model describes how architecture functions day-to-day._
 - [Architecture Artefact Flow](Templates/Process%20Flow/README.md)  
  _Describe and visualize business or technical processes._
 - [Technical Queries (TQ)](Templates/Technical%20Queries/README.md)  
