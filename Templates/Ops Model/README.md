@@ -61,7 +61,7 @@ Governance is anchored upon [architecture principles](https://github.com/buildbo
 
 ### Terms of Reference
 
-Architects are engaged from project inception through delivery, providing design assurance, strategic alignment, and governance participation as defined in [terms of reference](https://github.com/buildbod/Architecture/blob/main/Templates/Terms%20of%20Reference/README.md). Decision rights and escalation paths should be documented at project initiation.
+Architects are engaged from project inception through delivery, providing design assurance, strategic alignment, and governance participation as defined in [Terms of Reference](https://github.com/buildbod/Architecture/blob/main/Templates/Terms%20of%20Reference/README.md). The Terms of Reference contains broader project roles for context and delivery, ensuring all stakeholders understand their responsibilities and the architectural touchpoints. Decision rights and escalation paths should be documented at project initiation.
 
 ### Review Cadence
 
